@@ -1,0 +1,27 @@
+/*  Hi! your going to write styles here in the next couple activities. */ 
+.navigation {
+    display: inline-block;
+    padding: 35px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+    vertical-align: top;
+
+}
+ 
+p {
+    font-family: verdana;
+    font-size: 15px;
+  }
+
+  img {
+    height: 600px;
+    padding: 1%;
+    width: 23%;
+  }
+ .logo {
+    margin: 0 auto;
+    width: 900px;
+    display: block;
+ }
+ 
